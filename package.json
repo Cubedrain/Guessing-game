@@ -1,0 +1,22 @@
+{
+  "name": "guess-game-cli",
+  "version": "1.0.0",
+  "description": "A guessing game in cli format nodejs",
+  "main": "./bin/Index.js",
+  "bin": {
+    "guess-game-cli": "bin/Index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "CLI"
+  ],
+  "author": "David Lawrence",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.8.0"
+  }
+}
