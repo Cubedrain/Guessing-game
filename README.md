@@ -5,7 +5,7 @@ Features the use of the **chalk** and **figet** modules, providing a good look t
 To run simply clone the project and run
 
 ```shell
-    node ./bin/Index.js
+node ./bin/Index.js
 ```
 
 Any suggestions are welcome.
